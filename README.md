@@ -2,7 +2,7 @@
 
 Full Demo is explained here
 
-  - https://slicode.com/stack-views-in-ios-explained-programatically/
+  - https://slicode.com/bottom-refresh-control-uicollectionview/
   
   
   Demo Example
